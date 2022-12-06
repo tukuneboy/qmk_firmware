@@ -1,0 +1,32 @@
+{
+    "keyboard_name": "7stray", 
+    "manufacturer": "Salicylic_Acid",
+    "url": "https://salicylic-acid3.hatenablog.com/", 
+    "maintainer": "Salicylic_acid3", 
+    "usb": {
+        "vid": "0x04D8",
+        "pid": "0x6B5F",
+        "device_version": "0.0.7"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"13", "x":0, "y":0, "w":0.75},
+                {"label":"14", "x":0.75, "y":0, "w":0.75},
+                {"label":"15", "x":1.5, "y":0, "w":0.75},
+                {"label":"1", "x":0, "y":1},
+                {"label":"2", "x":1, "y":1},
+                {"label":"3", "x":2, "y":1},
+                {"label":"4", "x":3, "y":1},
+                {"label":"5", "x":4, "y":1},
+                {"label":"6", "x":0, "y":2, "w":1.5},
+                {"label":"7", "x":1.5, "y":2},
+                {"label":"8", "x":2.5, "y":2},
+                {"label":"9", "x":3.5, "y":2, "w":1.5},
+                {"label":"10", "x":0.75, "y":3},
+                {"label":"11", "x":1.75, "y":3, "w":1.5},
+                {"label":"12", "x":3.25, "y":3}
+            ]
+        }
+    }
+}
