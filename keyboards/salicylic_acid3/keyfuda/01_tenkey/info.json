@@ -1,10 +1,18 @@
 {
-    "keyboard_name": "cassette42", 
-    "url": "http://www.sho-k.co.uk/tech/1246.html", 
-    "maintainer": "monksoffunk", 
+    "keyboard_name": "01_tenkey", 
+    "manufacturer": "Salicylic_Acid",
+    "url": "https://salicylic-acid3.hatenablog.com/", 
+    "maintainer": "Salicylic_acid3", 
+    "usb": {
+        "vid": "0x04D8",
+        "pid": "0xE887",
+        "device_version": "0.0.1"
+    },
     "layouts": {
         "LAYOUT": {
-            "layout": [{"x":0.5, "y":0.75}, {"x":2.5, "y":0.75}, {"x":0, "y":1.75}, {"x":1, "y":1.75}, {"x":2, "y":1.75}, {"x":3, "y":1.75}]
+            "layout": [
+                {"label":"0,0", "x":0, "y":0}, {"label":"0,5", "x":1, "y":0}, {"label":"0,10", "x":2, "y":0}, {"label":"0,15", "x":3, "y":0}, {"label":"0,1", "x":0, "y":1}, {"label":"0,6", "x":1, "y":1}, {"label":"0,11", "x":2, "y":1}, {"label":"0,16", "x":3, "y":1, "h":2}, {"label":"0,2", "x":0, "y":2}, {"label":"0,7", "x":1, "y":2}, {"label":"0,12", "x":2, "y":2}, {"label":"0,3", "x":0, "y":3}, {"label":"0,8", "x":1, "y":3}, {"label":"0,13", "x":2, "y":3}, {"label":"0,17", "x":3, "y":3, "h":2}, {"label":"0,4", "x":0, "y":4}, {"label":"0,9", "x":1, "y":4}, {"label":"0,14", "x":2, "y":4}
+            ]
         }
     }
 }
